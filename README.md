@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+Meu nome é Carol, 
+Sou Desenvolvedora Front-End,
+Atualmente trabalho com Ecommerce com tecnologias VTEX CMS e VTEX IO.
 <!--
 **carolvmoran/carolvmoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
