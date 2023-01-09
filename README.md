@@ -4,11 +4,11 @@
 - 🌱 Estou estudando React e GraphQl
 - 😄 Pronouns: ela/dela
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/carolvmoran">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolvmoran&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolvmoran&layout=compact&langs_count=7&theme=radical"/>
-</div>
+</div> -->
 <div style="display: inline_block"><br>
   <img align="center" alt="carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="carol-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
