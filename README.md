@@ -1,7 +1,8 @@
-## Oiii eu sou a Caroline Moran, desenvolvedora Front-End. 🚀
+## Me chamo Caroline Vasconcelos Moran e sou desenvolvedora FrontEnd. 
 
-- 🔭 Hoje trabalho com Ecommerces usando as tecnologias da VTEX - CMS e VTEX IO.
-- 🌱 Estou estudando React e GraphQl
+- 🔭 Minha especialidade é o trabalho com Ecommerces usando as tecnologias da VTEX(Legacy e VTEX IO) e React.js. 
+- Dentro do trabalho com Ecommerces já fiz parte de equipes de Implatação e de Evolução(ongoing) de loja. 
+- 🌱 Atualmente, além do trabalho, estou estudando como desenvolver habilidades UI/UX 
 - 😄 Pronouns: ela/dela
 
 <!-- <div align="center">
@@ -10,6 +11,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolvmoran&layout=compact&langs_count=7&theme=radical"/>
 </div> -->
 <div style="display: inline_block"><br>
+    <h2>
+        As técnologias e ferramentas que já trabalhei e meu nível de
+        conhecimento nelas são as seguintes:
+      </h2>
       <ul>
         <li>
           <h3>Ferramentas de Marcação de texto:</h3>
