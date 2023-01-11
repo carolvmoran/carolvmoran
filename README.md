@@ -18,7 +18,7 @@
       <ul>
         <li>
           <h3>Ferramentas de Marcação de texto:</h3>
-          <ol
+          <ul
             style="
               display: flex;
               flex-direction: column;
@@ -53,7 +53,7 @@
               <span>Markdowm:</span>
               <span> Alto</span>
             </li>
-          </ol>
+          </ul>
           </li>
   </ul>
   <img align="center" alt="carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
