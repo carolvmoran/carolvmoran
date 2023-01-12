@@ -191,7 +191,6 @@
               <span>React.js:</span>
               <span>Alto</span>
             </li>
-
             <li>
               <span>
                 <img
@@ -205,7 +204,6 @@
               <span>Vue.js:</span>
               <span>Médio</span>
             </li>
-
             <li>
               <span>
                 <img
@@ -390,7 +388,6 @@
             </li>
           </ul>
         </li>
-
         <li>
           <h3>Ferramentas de Ponto:</h3>
           <ul
@@ -611,7 +608,6 @@
               </span>
               <span>CodePen</span>
             </li>
-
             <li>
               <span>
                 <img
@@ -663,7 +659,6 @@
           </ul>
         </li>
       </ul>
-  
     <div>
       <a href="https://instagram.com/carol_v_moran" target="_blank"
         ><img
