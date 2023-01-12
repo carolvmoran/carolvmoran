@@ -5,19 +5,12 @@
 - 🌱 Atualmente, além do trabalho, estou estudando como desenvolver habilidades UI/UX 
 - 😄 Pronouns: ela/dela
 
-<div align="center">
-  <a href="https://github.com/carolvmoran">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolvmoran&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolvmoran&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-     <div style="display: inline_block">
-      <h2>
-        As técnologias e ferramentas que já trabalhei e meu nível de
-        conhecimento nelas são as seguintes:
-      </h2>
-      <p></p>
-      <ul>
+<div style="display: inline_block">
+    <h2>
+      As técnologias e ferramentas que já trabalhei e meu nível de
+      conhecimento nelas são as seguintes:
+    </h2>
+    <ul>
         <li>
           <h3>Ferramentas de Marcação de texto:</h3>
           <ul
@@ -670,8 +663,7 @@
           </ul>
         </li>
       </ul>
-    </div>
-
+  
     <div>
       <a href="https://instagram.com/carol_v_moran" target="_blank"
         ><img
@@ -687,6 +679,10 @@
       /></a>
       ![Snake animation](https://github.com/carolvmoran/carolvmoran/blob/output/github-contribution-grid-snake.svg)
     </div>
+    </div>
+
+    
+    
 
  
 
