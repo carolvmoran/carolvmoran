@@ -1,4 +1,4 @@
-## Me chamo Caroline Vasconcelos Moran e sou desenvolvedora FrontEnd. 
+## Me chamo Caroline Vasconcelos Moran e sou Tech Lead de uma equipe de desenvolmento FrontEnd. 
 
 - 🔭 Minha especialidade é o trabalho com Ecommerces usando as tecnologias da VTEX(Legacy e VTEX IO) e React.js. 
 - 🔭 Dentro do trabalho com Ecommerces já fiz parte de equipes de Implatação e de Evolução(ongoing) de loja. 
